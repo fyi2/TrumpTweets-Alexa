@@ -1,0 +1,2 @@
+Run a simple local browser: - alexa-skill-test
+Tool to expand utterances : http://www.makermusings.com/amazon-echo-utterance-expander/
