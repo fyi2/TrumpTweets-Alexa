@@ -1,7 +1,13 @@
-SKILL: Short paragraph
+SKILL: The latest tweets from POTUS. With a little fun game attached to getting your tweets
 SKILL explanation
+You say 'Alexa ask the tweet Trumpet to give me some exciting tweets' and she will return the 5 latest tweets.
+Now the game is that 'exciting' is not one of the President's favorite adjectives. If you can guess one of those
+you earn points and these give you more tweets. so say your guess was the word 'boring' you could say:
+'Alexa ask the tweet Trumpet to give me some boring tweets' and if boring was worth 3 points you would get 5+3 = 8 tweets.
 
-The 'Next Commuter Rail' Alexa Skill uses the real-time data feeds for the Commuter Rail are provided by The Massachusetts Department of Transportation.
-The author and the skill 'Next Commuter Rail'  do not represent Mass D O T, the MBTA or its agencies and authorities.
-The MBTA Real Time data feeds are used under the Massachusetts Department of Transportation Developers License Agreement
-(http://www.massdot.state.ma.us/Portals/0/docs/developers/develop_license_agree.pdf)
+You always get five tweets even if you miss.
+
+The tweets are the latest tweets so it's hardly worth doing this more that once a day, but you might....
+
+This app uses the standard tweet feed, and the tweets are modified to make them more understandable for Alexa,
+but in not way is the content altered. That would be fake news!

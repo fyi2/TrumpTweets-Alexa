@@ -1,0 +1,12 @@
+TWEET_ADJECTIVE
+big
+huge
+classy
+great
+believable
+beautiful
+winning
+amazing
+tremendous
+terrific
+incredible

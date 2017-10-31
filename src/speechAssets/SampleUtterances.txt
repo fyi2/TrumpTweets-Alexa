@@ -1,0 +1,50 @@
+TweetRequest get some {tweetAdjective} quote
+TweetRequest get some {tweetAdjective} quotes
+TweetRequest get some {tweetAdjective} trump tweet
+TweetRequest get some {tweetAdjective} trump tweets
+TweetRequest get some {tweetAdjective} tweet
+TweetRequest get some {tweetAdjective} tweets
+TweetRequest get {tweetAdjective} quote
+TweetRequest get {tweetAdjective} quotes
+TweetRequest get {tweetAdjective} trump tweet
+TweetRequest get {tweetAdjective} trump tweets
+TweetRequest get {tweetAdjective} tweet
+TweetRequest get {tweetAdjective} tweets
+TweetRequest give me some {tweetAdjective} quote
+TweetRequest give me some {tweetAdjective} quotes
+TweetRequest give me some {tweetAdjective} trump tweet
+TweetRequest give me some {tweetAdjective} trump tweets
+TweetRequest give me some {tweetAdjective} tweet
+TweetRequest give me some {tweetAdjective} tweets
+TweetRequest give me {tweetAdjective} quote
+TweetRequest give me {tweetAdjective} quotes
+TweetRequest give me {tweetAdjective} trump tweet
+TweetRequest give me {tweetAdjective} trump tweets
+TweetRequest give me {tweetAdjective} tweet
+TweetRequest give me {tweetAdjective} tweets
+TweetRequest listen to some {tweetAdjective} quote
+TweetRequest listen to some {tweetAdjective} quotes
+TweetRequest listen to some {tweetAdjective} trump tweet
+TweetRequest listen to some {tweetAdjective} trump tweets
+TweetRequest listen to some {tweetAdjective} tweet
+TweetRequest listen to some {tweetAdjective} tweets
+TweetRequest listen to {tweetAdjective} quote
+TweetRequest listen to {tweetAdjective} quotes
+TweetRequest listen to {tweetAdjective} trump tweet
+TweetRequest listen to {tweetAdjective} trump tweets
+TweetRequest listen to {tweetAdjective} tweet
+TweetRequest listen to {tweetAdjective} tweets
+TweetRequest play some {tweetAdjective} quote
+TweetRequest play some {tweetAdjective} quotes
+TweetRequest play some {tweetAdjective} trump tweet
+TweetRequest play some {tweetAdjective} trump tweets
+TweetRequest play some {tweetAdjective} tweet
+TweetRequest play some {tweetAdjective} tweets
+TweetRequest play {tweetAdjective} quote
+TweetRequest play {tweetAdjective} quotes
+TweetRequest play {tweetAdjective} trump tweet
+TweetRequest play {tweetAdjective} trump tweets
+TweetRequest play {tweetAdjective} tweet
+TweetRequest play {tweetAdjective} tweets
+
+TweetRequest (listen to/listen to some/play/play some/get/get some/give me/ give me some) {tweetAdjective} (tweet/tweets/quote/quotes/trump tweets/trump tweet)
